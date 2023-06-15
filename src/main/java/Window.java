@@ -7,7 +7,7 @@ import java.awt.event.MouseListener;
 
 
 public class Window {
-    private static final int WIDTH = 480, HEIGHT = 640;
+    private static final int WIDTH = 480, HEIGHT = 638;
     private final Title title;
     private final JFrame window;
 
