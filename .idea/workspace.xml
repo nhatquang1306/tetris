@@ -7,6 +7,7 @@
     <list default="true" id="cb1f9ac1-1045-45ab-8668-72560be03dca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Window.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Window.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684111441561</updated>
-      <workItem from="1686857752120" duration="290000" />
+      <workItem from="1686857752120" duration="1205000" />
     </task>
     <servers />
   </component>

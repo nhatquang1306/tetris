@@ -7,13 +7,15 @@ import java.awt.event.MouseListener;
 
 
 public class Window {
-    private static final int WIDTH = 480, HEIGHT = 638;
+    private static final int WIDTH = 480, HEIGHT = 601;
     private final Title title;
     private final JFrame window;
 
     public Window() {
         window = new JFrame("Tetris");
-        window.setSize(WIDTH, HEIGHT);
+        Dimension dimension = new Dimension(WIDTH, HEIGHT);
+        window.getContentPane().setPreferredSize(dimension);
+        window.pack();
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setResizable(false);
         window.setLocationRelativeTo(null);
